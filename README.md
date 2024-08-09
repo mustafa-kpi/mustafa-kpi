@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Patharia</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<h3 align="center">Lead Application Developer @ KPI</h3>
 <p align="center"> I’m passionate about leveraging technology 🌐 to create solutions that make life easier. I love problem-solving and exploring new tech stacks 💻 to build awesome projects. In my downtime, I unwind with some sketching ✏️, which keeps my creativity flowing. I’m also deeply interested in data science and its potential to solve real-world challenges at scale. Let’s build something amazing together! 🚀</p>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=mustafa-kpi&label=Profile%20views&color=0e75b6&style=flat" alt="Mustafa Patharia" />
