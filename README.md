@@ -16,14 +16,14 @@
  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br>
+<br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/8da45163336fc62161cd3ae7b302d925.gif">
-<br><br>
+<img align="right" alt="Coding" width="400" src="https://github.com/mustafa-kpi/mustafa-kpi/blob/main/developing.gif?raw=true">
 
 - 🔭 Currently, I’m working on **Infithra**, an HRIS system designed to streamline payroll processing with lightning speed ⚡.
 
@@ -37,7 +37,7 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
-<br>
+<br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
