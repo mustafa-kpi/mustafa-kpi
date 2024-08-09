@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **mustsfa@kpi.co** || **patharia52@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://www.linkedin.com/in/mustafa-patharia)
+- 📄 Know about my experiences [Show Me](https://www.linkedin.com/in/mustafa-patharia)
 
 - ⚡ Fun fact **I think I'm funny**
 
