@@ -83,4 +83,4 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
-<p align="right" > Created with ❤ by <a href="http://supun.traditionalme.life">Mustafa Patahria</a></p>
+<p align="right" > Created with ❤ by <a href="https://www.linkedin.com/in/mustafa-patharia">Mustafa Patahria</a></p>
